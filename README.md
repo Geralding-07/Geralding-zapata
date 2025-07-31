@@ -1,6 +1,6 @@
 # Geralding Zapata Castro
 # ¡conoce de mí!
-Me llamo Geralding Zapata tengo 19 años y soy Aprendiz del que me gusta el tema de la tecnologia y programción, la ética profesional y el desarrollo de software, actualmente aprendiendo desarrollo web, bases de datos y programación en Python  Interesada en proyectos que combinen creatividad, innovación y propósito a futuro.
+Me llamo Geralding Zapata tengo 19 años y soy Aprendiz del  Sena, que me gusta el tema de la tecnologia y programción, la ética profesional y el desarrollo de software, actualmente aprendiendo desarrollo web, bases de datos y programación en Python  Interesada en proyectos que combinen creatividad, innovación y propósito a futuro.
 
  # Habilidades Técnicas
 - HTML, CSS, 
@@ -14,3 +14,5 @@ Me llamo Geralding Zapata tengo 19 años y soy Aprendiz del que me gusta el tema
 - ✉️ Email: geraldinzapata3g@email.com
 - 💼 [LinkedIn](https://linkedin.com/in/geralding)
 - 🌐 [Portafolio Web ](https://geralding.)
+
+- "No tienes que ser experta para empezar, pero tienes que empezar para ser experta."
