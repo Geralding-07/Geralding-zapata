@@ -16,3 +16,4 @@ Me llamo Geralding Zapata tengo 19 años y soy Aprendiz del  Sena, que me gusta 
 - 🌐 [Portafolio Web ](https://geralding.)
 
 - "No tienes que ser experta para empezar, pero tienes que empezar para ser experta."
+ 
